@@ -8,3 +8,7 @@
 * https://fontawesome.com/ (Icones usados na página)
 
 * https://owlcarousel2.github.io/OwlCarousel2/ (plugin JavaScript)
+
+* https://web.digitalinnovation.one/lab/recriando-a-interface-do-netflix/learning/a9150215-27d5-4a2c-8870-b1eb109e257a (Curso da DIO)
+
+* https://github.com/felipeAguiarCode (Professor do curso)
